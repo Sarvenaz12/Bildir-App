@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "381344224758",
+    "project_id": "bildir-app-881df",
+    "storage_bucket": "bildir-app-881df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381344224758:android:cc67450f2da7fd82d223d7",
+        "android_client_info": {
+          "package_name": "com.example.dummy_projects"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxcOHKPDQl4P07y5mI8bFjZAY35rccb_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
