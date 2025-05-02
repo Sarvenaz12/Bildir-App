@@ -50,9 +50,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAxcOHKPDQl4P07y5mI8bFjZAY35rccb_k',
-    appId: '1:381344224758:android:cc67450f2da7fd82d223d7',
-    messagingSenderId: '381344224758',
+    apiKey: 'Aw0q93897wehut6u-97uokt4plew[]tr5y',
+    appId: '1:381344224758:android:et5yrtqrty',
+    messagingSenderId: '3813245358',
     projectId: 'bildir-app-881df',
     storageBucket: 'bildir-app-881df.firebasestorage.app',
   );
